@@ -1,2 +1,2 @@
-# Project-Python3-based-project
+# Python3-webbased-project
 **Basic Python3 based web project for CICD**
